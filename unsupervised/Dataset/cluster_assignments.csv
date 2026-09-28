@@ -1,0 +1,12 @@
+filename,cluster
+train_apple_image (262).png,0
+train_apple_image (263).png,0
+train_apple_image (264).png,0
+train_apple_image (265).png,0
+train_apple_image (266).png,0
+train_apple_image (267).png,0
+train_orange_image (250).png,1
+train_orange_image (251).png,1
+train_orange_image (252).png,0
+train_orange_image (253).png,1
+train_orange_image (254).png,1
