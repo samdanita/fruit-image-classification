@@ -7,13 +7,6 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Large image datasets
-*.jpg
-*.jpeg
-*.png
-*.JPG
-*.JPEG
-*.PNG
 
 # Trained models
 *.h5
